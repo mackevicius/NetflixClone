@@ -202,6 +202,9 @@ img {
 .footer li {
   line-height: 1.9;
 }
+.footer li:hover {
+  cursor: pointer;
+}
 /*Container*/
 .container {
   max-width: 70%;
